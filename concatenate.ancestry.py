@@ -1,4 +1,6 @@
 #take input a local ancestry annotated VCF file (FLARE output) and outputs a BED file where consecutive SNPs with the same ancestry assignment merged. 
+# python concatenate.ancestry.py <input.vcf> <output.bed>
+
 import sys
 import vcf
 
