@@ -1,4 +1,4 @@
-#Plot local ancestry along a single chromosome using the previously generated bed file. 3 samples are plotted together in this script
+#R code to Plot local ancestry along a single chromosome using the previously generated bed file. 3 samples are plotted together in this script
 
 # Load required libraries
 library(ggplot2)
